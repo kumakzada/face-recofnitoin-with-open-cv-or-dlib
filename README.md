@@ -42,4 +42,4 @@ ana form
 
 # webcam ile yüz tanıma
 ** open-cv, face_recognitoin, os, ve numpy kütüphaneleri kullanılmıştır ana formdaki webcam ile buttonuna tıklandığında karşımıza çıkan ekran**
->![webcam](https://user-images.githubusercontent.com/68020295/92123060-ddff5700-ee04-11ea-8d80-19790646aa79.PNG)
+>![webcam](https://user-images.githubusercontent.com/68020295/92123888-ca082500-ee05-11ea-84e9-cac0ade07bf5.PNG)
