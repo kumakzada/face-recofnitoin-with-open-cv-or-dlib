@@ -41,5 +41,5 @@ ana form
 >![YüzKarşılaştırma](https://user-images.githubusercontent.com/68020295/92122777-8f51bd00-ee04-11ea-9618-97e23a30bf49.PNG)
 
 # webcam ile yüz tanıma
-** open-cv, face_recognitoin, os, ve numpy kütüphaneleri kullanılmıştır ana formdaki webcam ile buttonuna tıklandığında karşımıza çıkan ekran**
+**open-cv, face_recognitoin, os, ve numpy kütüphaneleri kullanılmıştır ana formdaki webcam ile buttonuna tıklandığında karşımıza çıkan ekran**
 >![webcam](https://user-images.githubusercontent.com/68020295/92123888-ca082500-ee05-11ea-84e9-cac0ade07bf5.PNG)
